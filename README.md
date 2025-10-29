@@ -8,6 +8,7 @@ MBU:      https://data.mendeley.com/datasets/wmy84gzngw/1
 BreakHis: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 
 
-Note:
-The model folder contains the models and it can be tested using the test images
+Points:
+The model folder contains the models and it can be tested using the test images.
 The Code.ipynb is the mail code file.
+The Model_Summary.ipynb contains the summary of all the models
